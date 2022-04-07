@@ -1,0 +1,55 @@
+[
+    {
+        "name": "Vianetta",
+        "age": 23,
+        "favorite_pets": [
+            "DOG",
+            "CAT",
+            "FERRET",
+            "HAMSTER",
+            "GUINEA_PIG"
+        ]
+    },
+    {
+        "name": "Daisy",
+        "age": 22,
+        "favorite_pets": [
+            "DOG",
+            "HAMSTER",
+            "GUINEA_PIG"
+        ]
+    },
+    {
+        "name": "Drew Socks",
+        "age": 22,
+        "favorite_pets": [
+            "CAT",
+            "FERRET",
+            "SNAKE",
+            "CANARY"
+        ]
+    },
+    {
+        "name": "Sophie's Diary Owner",
+        "age": 23,
+        "favorite_pets": [
+            "CAT",
+            "HAMSTER",
+            "FERRET",
+            "GUINEA_PIG"
+        ]
+    },
+    {
+        "name": "Steve",
+        "age": 60,
+        "favorite_pets": [
+            "DOG",
+            "CAT",
+            "CANARY",
+            "FERRET",
+            "GUINEA_PIG",
+            "HAMSTER",
+            "SNAKE"
+        ]
+    }
+]

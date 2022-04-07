@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Loki",
+        "age": 6,
+        "pet_type": "DOG"
+    },
+    {
+        "name": "Daisy",
+        "age": 10,
+        "pet_type": "DOG"
+    },
+    {
+        "name": "Missy",
+        "age": 15,
+        "pet_type": "DOG"
+    },
+    {
+        "name": "Flick",
+        "age": 13,
+        "pet_type": "DOG"
+    },
+    {
+        "name": "Java",
+        "age": 3,
+        "pet_type": "CAT"
+    },
+    {
+        "name": "Gizzy",
+        "age": 2,
+        "pet_type": "CAT"
+    },
+    {
+        "name": "Mia",
+        "age": 2,
+        "pet_type": "CAT"
+    },
+    {
+        "name": "Snuffles",
+        "age": 2,
+        "pet_type": "HAMSTER"
+    },
+    {
+        "name": "Dave",
+        "age": 2,
+        "pet_type": "HAMSTER"
+    },
+    {
+        "name": "Tweety",
+        "age": 1,
+        "pet_type": "CANARY"
+    },
+    {
+        "name": "Amber",
+        "age": 1,
+        "pet_type": "CANARY"
+    },
+    {
+        "name": "Nagini",
+        "age": 3,
+        "pet_type": "SNAKE"
+    },
+    {
+        "name": "Salazar",
+        "age": 2,
+        "pet_type": "SNAKE"
+    },
+    {
+        "name": "Garrett the Ferret",
+        "age": 3,
+        "pet_type": "FERRET"
+    },
+    {
+        "name": "Rufus",
+        "age": 1,
+        "pet_type": "GUINEA_PIG"
+    }
+]
